@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - Fall
+  - shit
+  - Float
+  - Sky
+  - Save1
+  - FloatUp
+  - FloatDown
+  - MovingPlatform
+  - Death
+  - Fireball
+  - EnemyZone
+  - Bullet
+  - Spawn
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -16,8 +31,8 @@ TagManager:
   - PostProcessing
   - Platform
   - isGrounded
-  - 
-  - 
+  - Player
+  - Bullet
   - 
   - 
   - 
